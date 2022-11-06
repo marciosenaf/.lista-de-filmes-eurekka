@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-Este Projeto e uma aplicacao back-end e front-end, lista de filme feito para o processo seletivo da EUREKKA 08/2022
+Este Projeto e uma aplicacao back-end, front-end e com o banco de dados implementado MongoDB, lista de filme feito para o processo seletivo da EUREKKA 08/2022
 
 ## Layout 
 ![Web](https://github.com/marciosenaf/.lista-de-filmes-eurekka/blob/main/img/readme.png)
